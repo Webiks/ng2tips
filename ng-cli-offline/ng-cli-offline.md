@@ -1,7 +1,8 @@
 # Angular-Cli Offline
-Purpose: Install  (locally or globally) and work with angular-cli offline
-Process in general: Cache your packages, copy the cache folder to the offiline machine, then force npm to use that cache folder instead of accessing the internet.
-I've wrote a [Post] on this subject.
+### Purpose: Install  (locally or globally) and work with angular-cli offline
+### Process in general: Cache your packages, copy the cache folder to the offiline machine, then force npm to use that cache folder instead of accessing the internet.
+
+There is a [Post] on this subject.
 
 ### Step 1 : Cache it
 From terminal: 
@@ -17,7 +18,7 @@ npm install angular-cli
 ```
 
 ### Step 2: Move it
-Copy your cache folder and move it to offline machine. see the location of it here (link to npm docs)
+Copy your cache folder and move it to offline machine. the [location](https://docs.npmjs.com/cli/cache#cache) of it depend on your OS.
 Note: nodejs should be installed on the offline machine as well
 
 ### Step 3: Install it 
