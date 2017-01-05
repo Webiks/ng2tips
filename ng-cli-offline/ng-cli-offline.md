@@ -1,6 +1,8 @@
 # Angular-Cli Offline
-### Purpose: Install  (locally or globally) and work with angular-cli offline
-### Process in general: Cache your packages, copy the cache folder to the offiline machine, then force npm to use that cache folder instead of accessing the internet.
+### Purpose: 
+Install  (locally or globally) and work with angular-cli offline
+### Process in general: 
+Cache your packages, copy the cache folder to the offiline machine, then force npm to use that cache folder instead of accessing the internet.
 
 There is a [Post] on this subject.
 
