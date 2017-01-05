@@ -13,8 +13,8 @@ npm cache clean
 
 than simply make npm cache angular-cli by installing it and start a nw project (in any folder you choose)
 ```bash
-npm install angular-cli
-npm install angular-cli
+npm install angular-cli -g
+ng new dummyproject
 ```
 
 ### Step 2: Move it
