@@ -1,0 +1,63 @@
+{
+  "rabbits": [
+    {
+      "id": 1,
+      "name": "me",
+      "traits": {
+        "a": {
+          "item" : "crazy eyes",
+          "description": "can be crazy"
+        },
+        "b": {
+          "item": "suit",
+          "description": "fancy one"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bugs",
+      "quote": "What's up Doc? Actually I'm a bunny, not a whabit.",
+      "traits": {
+        "a": {
+          "item" : "carrot",
+          "description": "an orange thing"
+        },
+        "b": {
+          "item": "sense of humor",
+          "description": "good one"
+        }
+      }
+    }
+  ],
+  "colors": [
+    {
+      "colorName": "red",
+      "hexValue": "#f00"
+    },
+    {
+      "colorName": "green",
+      "hexValue": "#0f0"
+    },
+    {
+      "colorName": "blue",
+      "hexValue": "#00f"
+    },
+    {
+      "colorName": "cyan",
+      "hexValue": "#0ff"
+    },
+    {
+      "colorName": "magenta",
+      "hexValue": "#f0f"
+    },
+    {
+      "colorName": "yellow",
+      "hexValue": "#ff0"
+    },
+    {
+      "colorName": "black",
+      "hexValue": "#000"
+    }
+  ]
+}
