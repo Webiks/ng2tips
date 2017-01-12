@@ -9,7 +9,8 @@ set json server up and running. use proxy config file for easy switch between re
 
 ### Step 1 : set up json server
 install globally: `npm install -g json-server`
-Create a `db.json` file (to be serve by the *json-server*. see [example](https://github.com/Webiks/ng2tips/tree/master/simulate-api-server/db.json)
+Create a `db.json` file (to be serve by the *json-server*. see [example](https://github.com/Webiks/ng2tips/tree/master/simulate-api-server/db.json).
+
 in the file set your endpoint and data key-values, like:
 ```javascript
 {
