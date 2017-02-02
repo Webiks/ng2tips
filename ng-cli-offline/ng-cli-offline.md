@@ -4,7 +4,7 @@ Install  (locally or globally) and work with [angular-cli](https://github.com/an
 ### Process in general: 
 Cache your packages, copy the cache folder to the offiline machine, then force npm to use that cache folder instead of accessing the internet.
 
-There is a [Post](http://webiks.com/working-offline-with-angular-cli/) on this subject.
+We wrote a [post](http://webiks.com/working-offline-with-angular-cli/) on this subject.
 
 ### Step 1 : Cache it
 From terminal: 
